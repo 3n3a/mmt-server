@@ -57,6 +57,7 @@ set_permissions() {
   
   # set_perm $MODPATH/system/lib/libart.so 0 0 0644
   set_perm $MODPATH/system/bin/server 0 0 755
+  set_perm $MODPATH/system/service.sh 0 0 755
 }
 
 ##########################################################################################
