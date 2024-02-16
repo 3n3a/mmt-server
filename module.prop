@@ -1,6 +1,6 @@
 id=webserver
 name=Webserver
-version=v1.0
+version=v1.1
 versionCode=17
 author=3n3a
 description=Webserver Golang
