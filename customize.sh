@@ -43,8 +43,6 @@ REPLACE="
 ##########################################################################################
 
 set_permissions() {
-  : # Remove this if adding to this function
-
   # Note that all files/folders in magisk module directory have the $MODPATH prefix - keep this prefix on all of your files/folders
   # Some examples:
   
@@ -58,7 +56,7 @@ set_permissions() {
   # set_perm  <filename>                         <owner> <group> <permission> <contexts> (default: u:object_r:system_file:s0)
   
   # set_perm $MODPATH/system/lib/libart.so 0 0 0644
-  # set_perm /data/local/tmp/file.txt 0 0 644
+  set_perm $MODPATH/system/bin/server 0 0 755
 }
 
 ##########################################################################################
