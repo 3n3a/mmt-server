@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.5
+id=webserver
+name=Webserver
+version=v1.0
 versionCode=17
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=3n3a
+description=Webserver Golang
+updateJson=https://raw.githubusercontent.com/3n3a/mmt-server/master/update.json

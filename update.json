@@ -1,6 +1,6 @@
 {
-  "version": "v3.5",
+  "version": "v1.0",
   "versionCode": 17,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "zipUrl": "https://github.com/3n3a/mmt-server/archive/refs/tags/v1.0.zip",
+  "changelog": "https://raw.githubusercontent.com/3n3a/mmt-server/master/changelog.md"
 }
