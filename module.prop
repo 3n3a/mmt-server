@@ -1,7 +1,7 @@
 id=webserver
 name=Webserver
-version=v1.1
-versionCode=17
+version=v1.2
+versionCode=18
 author=3n3a
 description=Webserver Golang
 updateJson=https://raw.githubusercontent.com/3n3a/mmt-server/master/update.json

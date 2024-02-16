@@ -1,6 +1,6 @@
 {
-  "version": "v1.1",
-  "versionCode": 17,
+  "version": "v1.2",
+  "versionCode": 18,
   "zipUrl": "https://raw.githubusercontent.com/3n3a/mmt-server/master/install.zip",
   "changelog": "https://raw.githubusercontent.com/3n3a/mmt-server/master/changelog.md"
 }

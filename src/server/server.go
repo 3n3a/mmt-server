@@ -22,7 +22,7 @@ func main() {
     conf := Config{
         Name: "server",
         Description: "server that servers",
-        Version: "v1.1",
+        Version: "v1.2",
     }
 
     cli := &cli.App{
